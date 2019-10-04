@@ -1,1 +1,1 @@
-# Data Visualization in Python Uding the Matplot lib Module
+# Data Visualization in Python Using the Matplot lib Module
